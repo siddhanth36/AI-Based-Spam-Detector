@@ -2,7 +2,6 @@
 
 A machine learning model that accurately classifies SMS messages as **spam** or **ham** (not spam) with over 98% accuracy. Built with Python and scikit-learn.
 
-![Confusion Matrix](assets/confusion_matrix.png)
 
 ## Features
 
